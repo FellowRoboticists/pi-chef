@@ -1,0 +1,10 @@
+{
+	"id": "dsieh",
+	"password":"$1$3yzqOXAr$niGhvM40sqwMogo956iVc.",
+	"groups": [ "sysadmin" ],
+	"shell": "/bin/bash",
+	"comment": "Dave Sieh",
+	"ssh_keys": [
+		   "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDP/0dcge6VHIdXX7NT4SXkw69FvR8LiWOGvvs1lcw7zt8DggA0H8csZaYvI46GeaM6t/DOIhjVH9FMp6gGdjcm7AdniQ8yg2SZ9/wlSZbKaZNjBaUltJ8asrhBogwnU9SpEDapjFy+1KreBYR1fvE2mj31d/Thea1ACcGAJmXCPHPGua0mZurPGSMwW5XQZDK0sZAEM2cm9TEqCIFqdlejdzVEpMzHGnyjnq9mRSpPmWw0S/TmCyIzd+nScz87dK2PDWEsPYn2rLWyqn21Zpxg2FiklbehZ60apd08ZVv1zHOeey2UMFCwoUBuY2Ea/0jk3z3pQM8abg3RCsIAU2Bx dsieh@serenity"
+	]	
+}
