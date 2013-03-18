@@ -24,3 +24,6 @@ end
 
 package "git" do
 end
+
+package "git-el" do
+end
