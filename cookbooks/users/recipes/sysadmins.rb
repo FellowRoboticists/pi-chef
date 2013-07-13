@@ -24,3 +24,12 @@ users_manage "sysadmin" do
   group_id 2300
   action [ :remove, :create ]
 end
+
+# Make sure that sysadmin is in the sudoer's file
+template "/etc/sudoers.d/local" do
+  owner "root"
+  group "root"
+  mode "0440"
+  action :create
+  source "local.sudo.erb"
+end

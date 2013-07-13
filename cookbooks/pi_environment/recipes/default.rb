@@ -27,3 +27,17 @@ end
 
 package "git-el" do
 end
+
+package "libtcltk-ruby"
+
+# For rendering plots of collected data
+package "gnuplot" do
+end
+
+# For creating time-lapse movies
+package "mencoder" do
+end
+
+# More video processing
+package "ffmpeg" do
+end
