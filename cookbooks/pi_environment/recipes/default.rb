@@ -41,3 +41,14 @@ end
 # More video processing
 package "ffmpeg" do
 end
+
+# These packages are for debian packages
+
+package "build-essential" do
+end
+
+package "devscripts" do
+end
+
+package "debhelper" do
+end

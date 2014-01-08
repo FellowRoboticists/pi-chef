@@ -18,6 +18,11 @@
 # limitations under the License.
 #
 
+#
+# We have to have ruby-shadow on board to deal with the shadow password
+package "ruby-shadow" do
+end
+
 # Searches data bag "users" for groups attribute "sysadmin".
 # Places returned users in Unix group "sysadmin" with GID 2300.
 users_manage "sysadmin" do
