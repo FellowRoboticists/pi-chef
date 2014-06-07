@@ -1,0 +1,53 @@
+
+client.rb,0
+
+.chef/knife.rb,0
+
+roles/rpi_base.rb,0
+
+config/rake.rb,0
+
+cookbooks/users/recipes/default.rb,0
+
+cookbooks/users/recipes/sysadmins.rb,0
+
+cookbooks/users/resources/manage.rb,41
+def initialize(*args)initialize34,1410
+
+cookbooks/users/metadata.rb,0
+
+cookbooks/users/providers/manage.rb,87
+def whyrun_supported?whyrun_supported?21,666
+def initialize(*args)initialize25,700
+
+cookbooks/pi_environment/recipes/default.rb,0
+
+cookbooks/pi_environment/metadata.rb,0
+
+cookbooks/apt/attributes/default.rb,0
+
+cookbooks/apt/recipes/default.rb,0
+
+cookbooks/apt/recipes/cacher-client.rb,0
+
+cookbooks/apt/recipes/cacher-ng.rb,0
+
+cookbooks/apt/resources/repository.rb,40
+def initialize(*args)initialize22,659
+
+cookbooks/apt/resources/preference.rb,40
+def initialize(*args)initialize22,659
+
+cookbooks/apt/metadata.rb,0
+
+cookbooks/apt/providers/repository.rb,338
+def whyrun_supported?whyrun_supported?20,636
+def install_key_from_keyserver(key, keyserver)install_key_from_keyserver25,703
+def extract_gpg_ids_from_cmd(cmd)extract_gpg_ids_from_cmd38,1135
+def install_key_from_uri(uri)install_key_from_uri49,1373
+def build_repo(uri, distribution, components, arch, add_deb_src)build_repo79,2171
+
+cookbooks/apt/providers/preference.rb,66
+def build_pref(package_name, pin, pin_priority)build_pref21,672
+
+client.rb,0
