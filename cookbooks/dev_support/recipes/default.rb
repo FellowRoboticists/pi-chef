@@ -21,3 +21,6 @@ end
 
 package "vim" do
 end
+
+package "nodejs" do
+end
