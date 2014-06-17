@@ -24,3 +24,9 @@ end
 
 package "nodejs" do
 end
+
+package "npm" do
+end
+
+package "telnet" do
+end
