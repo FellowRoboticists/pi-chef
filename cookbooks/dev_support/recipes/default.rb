@@ -10,8 +10,8 @@
 package "screen" do
 end
 
-package "git" do
-end
+#package "git" do
+#end
 
 package "wget" do
 end
@@ -22,11 +22,11 @@ end
 package "vim" do
 end
 
-package "nodejs" do
-end
+#package "nodejs" do
+#end
 
-package "npm" do
-end
+#package "npm" do
+#end
 
 package "telnet" do
 end
