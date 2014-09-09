@@ -2,6 +2,10 @@
 
 This file is used to list changes made in each version of dev_support.
 
+## 0.1.1:
+
+* Added zip/unzip
+
 ## 0.1.0:
 
 * Initial release of dev_support

@@ -22,6 +22,12 @@ end
 package "vim" do
 end
 
+package "zip" do
+end
+
+package "unzip" do
+end
+
 #package "nodejs" do
 #end
 
