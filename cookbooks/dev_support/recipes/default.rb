@@ -36,3 +36,6 @@ end
 
 package "telnet" do
 end
+
+package "tig" do
+end
